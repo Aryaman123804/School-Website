@@ -64,3 +64,12 @@ marquee{
 .travel_mainDiv hr{
     width: 100%
 }
+.para {
+    text-align: left;
+    color: blue;
+    font-size: 17px;
+}
+#green {
+    color: green;
+    font-size: 20px
+}
